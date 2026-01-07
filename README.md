@@ -52,8 +52,8 @@ pip install -r requirements.txt
 ## How to Run Training and Analysis
 
 1. Activate the environment (see above).
-2. Open **EDA_Main_v5.ipynb** to explore and preprocess the dataset.
-3. Open **ML_Main_v1.ipynb** to train, tune, and evaluate the three ML models.
+2. Open **EDA_Main.ipynb** to explore and preprocess the dataset.
+3. Open **ML_Main.ipynb** to train, tune, and evaluate the three ML models.
 
 All results, figures, and model outputs will be generated within the notebooks.
 
